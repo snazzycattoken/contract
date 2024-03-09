@@ -1,4 +1,4 @@
-# Snazzy Cat (SNZY) Token
+# SnazzyCat (SNZY) Token
 
 ## Abstract
 
